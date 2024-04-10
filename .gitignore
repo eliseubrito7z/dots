@@ -1,0 +1,15 @@
+
+# NVIM CONFIGS
+
+## NVCHAD v1
+
+./nvchad-nvim/plugin
+./nvchad-nvim/custom
+spell
+./nvchad-nvim/ftplugin
+./nvchad-nvim/syntax
+coc./nvchad-nvim/-settings.json
+./nvchad-nvim/.luarc.json
+./nvchad-nvim/lazy-lock.json
+after
+./nvchad-nvim/**/.DS_Store
